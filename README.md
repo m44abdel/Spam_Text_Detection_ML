@@ -123,6 +123,7 @@ Potential improvements include:
 - nltk >= 3.8.0
 - scikit-learn >= 1.2.0
 - jupyter >= 1.0.0
+- tensorlfow >=2.0.0
 
 ## License
 
