@@ -19,6 +19,7 @@ We compare three different machine learning algorithms:
 1. **Naive Bayes** - A probabilistic classifier based on Bayes' theorem
 2. **Logistic Regression** - A linear model for binary classification  
 3. **Support Vector Machine (SVM)** - Finds the optimal hyperplane for classification
+4. Convolutional Neural Network (CNN) - Deep learning for spam detection
 
 ## Preprocessing Pipeline
 
