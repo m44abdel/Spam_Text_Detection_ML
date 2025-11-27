@@ -15,6 +15,7 @@ def test_imports():
         ('seaborn', 'seaborn'),
         ('nltk', 'nltk'),
         ('sklearn', 'sklearn'),
+        ('tensorflow', 'tensorflow'),
     ]
     
     print("Testing package imports...")
